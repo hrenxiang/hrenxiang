@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hrenxiang
+- 👋 Hi, I’m @hrenxiang, My personal blog: https://blog.huangrx.cn
 - 👀 I’m interested in technology, life, and everything
-- 🌱 I’m currently learning springcloud
+- 🌱 I’m currently learning React、NextJs、TS、Spring ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 2295701930@qq.com
+- 📫 How to reach me: huang.rx.life@hotmail.com
 - I am also Actively looking for a job/intership in shanghai. My Specality includes Web Development.
 
 <!---
