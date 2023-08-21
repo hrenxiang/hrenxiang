@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [https://www.huangrx.cn](https://www.huangrx.cn)
 
+- ✨My wechat mini program is 茜茜和阿黄的恋爱小屋
+
 - 💬 Ask me about **backend and frontend**
 
 - 📫 How to reach me **huang.rx.life@hotmail.com**
