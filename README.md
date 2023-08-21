@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrenxiang&label=Profile%20views&color=0e75b6&style=flat" alt="hrenxiang" /> </p>
 
-- 🌱 I’m currently learning **Design Pattern、Spring、React、TypeScript**
+- 🌱 我当前正在学习 **Design Pattern、Spring、React、TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://profile.huangrx.cn](https://profile.huangrx.cn)
+- 👨‍💻 我的个人简介以及简历项目资料在 [https://profile.huangrx.cn](https://profile.huangrx.cn)
 
-- 📝 I regularly write articles on [https://www.huangrx.cn](https://www.huangrx.cn)
+- 📝 我经常写文章的个人网站在 [https://www.huangrx.cn](https://www.huangrx.cn)
 
-- ✨My wechat mini program is 茜茜和阿黄的恋爱小屋
+- ✨ 我的微信小程序是 “茜茜和阿黄的恋爱小屋”
 
-- 💬 Ask me about **backend and frontend**
+- 💬 您可以问我一些前后端以及服务器的东西
 
-- 📫 How to reach me **huang.rx.life@hotmail.com**
+- 📫 可以通过以下邮箱联系我 **huang.rx.life@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
