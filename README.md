@@ -9,7 +9,7 @@
 
 - 📝 我经常写文章的个人网站在 [https://www.huangrx.cn](https://www.huangrx.cn)
 
-- ✨ 我的微信小程序是 “茜茜和阿黄的恋爱小屋”
+- ✨ 我的微信小程序是 “SweetJourney”
 
 - 💬 您可以问我一些前后端以及服务器的东西
 
