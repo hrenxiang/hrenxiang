@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm huangrx</h1>
 <h3 align="center">A passionate backend and frontend developer from China</h3>
 
-<img align="right" src="https://i.postimg.cc/fWGW5nbP/github-profile.jpg" width="400px"  alt="huangrx"/>
+<br/>
+
+<img align="right" src="https://i.postimg.cc/fWGW5nbP/github-profile.jpg" width="202px"  alt="huangrx"/>
 
 👨‍💻 我的简历是，[Huangrx's 在线简历](https://profile.huangrx.cn)
 
@@ -13,6 +15,7 @@
 
 📫 可以通过以下邮箱联系我 **huang.rx.life@hotmail.com**
 
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,6 +29,8 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongo,redis,rabbitmq,nginx,maven,gradle,git&theme=light"  alt="huangrx"/>
   </a>
 </p>
+
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrenxiang&show_icons=true&locale=en&layout=compact&theme=vue" alt="huangrx" /></p>
 
