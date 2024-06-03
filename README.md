@@ -2,8 +2,8 @@
 <h3 align="center">A passionate backend and frontend developer from China</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hrenxiang&label=Profile%20views&color=0e75b6&style=flat" alt="huangrx" /> </p>
-<div style="display: flex; flex-direction: row; align-items: center; gap: 80px">
-<div>
+
+<div align="left">
 
 👨‍💻 我的简历是，[Huangrx's 在线简历](https://profile.huangrx.cn)
 
@@ -15,9 +15,8 @@
 
 📫 可以通过以下邮箱联系我 **huang.rx.life@hotmail.com**
 </div>
-<div style="height: 100%">
+<div style="height: 100%" align="center">
     <img src="https://i.postimg.cc/fWGW5nbP/github-profile.jpg" height="202px"  alt="huangrx"/>
-</div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
