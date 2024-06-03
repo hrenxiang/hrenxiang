@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm huangrx</h1>
 <h3 align="center">A passionate backend and frontend developer from China</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=hrenxiang&label=Profile%20views&color=0e75b6&style=flat" alt="huangrx" /> </p>
-
-<div style="display: flex; flex-direction: row; gap: 60px">
-<div>
+<img align="right" src="https://i.postimg.cc/fWGW5nbP/github-profile.jpg" width="400px"  alt="huangrx"/>
 
 👨‍💻 我的简历是，[Huangrx's 在线简历](https://profile.huangrx.cn)
 
@@ -15,11 +12,7 @@
 💬 您可以问我一些前后端以及服务器的东西
 
 📫 可以通过以下邮箱联系我 **huang.rx.life@hotmail.com**
-</div>
-<div style="height: 100%;">
-    <img src="https://i.postimg.cc/fWGW5nbP/github-profile.jpg" height="202px"  alt="huangrx"/>
-</div>
-</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -36,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrenxiang&show_icons=true&locale=en&layout=compact&theme=vue" alt="huangrx" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hrenxiang&show_icons=true&locale=en&theme=vue" alt="huangrx" /></p>
+<p><img style="margin-left: 60px" src="https://github-readme-stats.vercel.app/api?username=hrenxiang&show_icons=true&locale=en&theme=vue" alt="huangrx" /></p>
 
 [![Huangrx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hrenxiang&theme=github-light)](https://github.com/hrenxiang/github-readme-activity-graph)
