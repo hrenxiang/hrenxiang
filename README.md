@@ -3,7 +3,7 @@
 
 <br/>
 
-<img align="right" src="https://i.postimg.cc/fWGW5nbP/github-profile.jpg" width="202px"  alt="huangrx"/>
+<img align="right" src="https://i.postimg.cc/fWGW5nbP/github-profile.jpg" height="180px"  alt="huangrx"/>
 
 👨‍💻 我的简历是，[Huangrx's 在线简历](https://profile.huangrx.cn)
 
