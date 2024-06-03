@@ -3,6 +3,8 @@
 
 <br/>
 
+<img align="right" src="https://i.postimg.cc/fWGW5nbP/github-profile.jpg" height="185px"  alt="huangrx"/>
+
 👨‍💻 我的简历是，[Huangrx's 在线简历](https://profile.huangrx.cn)
 
 📝 我的博客是，[Huangrx's 博客日记](https://www.huangrx.cn)
@@ -13,7 +15,7 @@
 
 📫 可以通过以下邮箱联系我 **huang.rx.life@hotmail.com**
 
-<img align="right" src="https://i.postimg.cc/fWGW5nbP/github-profile.jpg" height="185px"  alt="huangrx"/>
+
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
